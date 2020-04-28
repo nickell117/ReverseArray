@@ -1,0 +1,7 @@
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\obj\Debug\ReverseStringArray.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\obj\Debug\ReverseStringArray.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\bin\Debug\ReverseStringArray.exe.config
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\bin\Debug\ReverseStringArray.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\bin\Debug\ReverseStringArray.pdb
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\obj\Debug\ReverseStringArray.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\ReverseStringArray\ReverseStringArray\obj\Debug\ReverseStringArray.pdb
